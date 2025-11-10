@@ -4,7 +4,7 @@ version: 1.0.1
 homepage: https://github.com/Ali02-dev/auto_langx
 repository: https://github.com/Ali02-dev/auto_langx
 issue_tracker: https://github.com/Ali02-dev/auto_langx/issues
-publish_to: https://pub.dev
+
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
