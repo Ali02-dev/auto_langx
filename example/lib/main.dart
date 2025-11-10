@@ -4,8 +4,7 @@ import 'package:auto_langx/auto_langx.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  await AutoLangxController.instance
-      .init("AIzaSyB9tvs9tTAJ3MZyRwiHaih-gxKkCzIsWdo");
+  await AutoLangxController.instance.init("YOUR_GOOGLE_API_KEY_HERE");
 
   runApp(const MyApp());
 }
