@@ -1,6 +1,6 @@
 name: auto_langx
 description: Automatic translation package for Flutter apps using Google Cloud Translation API. Translate text dynamically at runtime without .arb files.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Ali02-dev/auto_langx
 repository: https://github.com/Ali02-dev/auto_langx
 issue_tracker: https://github.com/Ali02-dev/auto_langx/issues
