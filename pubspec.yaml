@@ -4,6 +4,7 @@ version: 1.0.0
 homepage: https://github.com/Ali02-dev/auto_langx
 repository: https://github.com/Ali02-dev/auto_langx
 issue_tracker: https://github.com/Ali02-dev/auto_langx/issues
+publish_to: https://pub.dev
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -21,3 +22,9 @@ dev_dependencies:
   flutter_lints: ^5.0.0
 
 flutter:
+
+# Metadata (optional but professional)
+# This helps pub.dev show your author info properly.
+contact:
+  name: Ali Ijaz
+  email: aliijaz9656@gmail.com
